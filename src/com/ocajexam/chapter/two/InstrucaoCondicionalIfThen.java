@@ -2,12 +2,12 @@ package com.ocajexam.chapter.two;
 
 /**
  * @since 07/01/2020
- * @author willian 
+ * @author willian
  * 
- * A instrução if-then ou if else if como também é conhecida é usada quando várias 
- * 	condições precisam ser percorridas em um cenário baseado em decisões.
+ * A instrução if-then ou if else if como também é conhecida é usada
+ * quando várias condições precisam ser percorridas em um cenário
+ * baseado em decisões.
  */
-
 public class InstrucaoCondicionalIfThen {
 
 	public static void main(String[] args) {
@@ -23,8 +23,8 @@ public class InstrucaoCondicionalIfThen {
 		} else if (expressaoB) {
 			System.out.printf("%s%n", instrucaoB);
 		}
-		
-		//Exemplo 1
+
+		// Exemplo 1
 		int pyramidSinker = 3;
 		System.out.print("A pyramid sinker that weighs " + pyramidSinker + " ounces is ");
 		if (pyramidSinker == 2)

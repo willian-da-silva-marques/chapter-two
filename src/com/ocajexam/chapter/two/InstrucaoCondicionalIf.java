@@ -2,10 +2,10 @@ package com.ocajexam.chapter.two;
 
 /**
  * @since 07/01/2020
- * @author willian 
+ * @author willian
  * 
- * A instrução if existe para executar condicionalmente uma
- *         instrução, ou selecionar condicionalmente uma entre várias instruções
+ * A instrução if existe para executar condicionalmente uma instrução,
+ * ou selecionar condicionalmente uma entre várias instruções
  */
 public class InstrucaoCondicionalIf {
 
