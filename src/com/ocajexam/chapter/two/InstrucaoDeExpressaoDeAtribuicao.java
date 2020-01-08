@@ -1,4 +1,4 @@
-package com.ocajexam.chapter.one;
+package com.ocajexam.chapter.two;
 
 public class InstrucaoDeExpressaoDeAtribuicao {
 
